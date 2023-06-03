@@ -4,62 +4,62 @@ This repository provides the HTML code necessary to create shareable links for v
 Please remember to replace placeholder phone numbers, text, and URLs with your own. Use the target="_blank" attribute to open the link in a new browser tab.
   
   
-<!-- WhatsApp -->
+WhatsApp
 ```
 
 <a href="https://api.whatsapp.com/send?text=Hello&phone=9809106239752" target="_blank">Share on WhatsApp</a>
 
 ```
 
-<!-- Telegram -->
+Telegram
 ```
 
 <a href="https://t.me/share/url?url=https://adminvila.com/singlevila/60/k5dk4s95yms&text=Hello" target="_blank">Share on Telegram</a>
 
 ```
   
-<!-- SMS -->
+SMS
 ```
 
 <a href="sms:?&body=Hello%0D%0Ahttps://adminvila.com/singlevila/60/k5dk4s95yms" target="_blank">Share via SMS</a>
 
 ```
   
-<!-- Phone -->
+Phone
 ```
 
 <a href="tel:09104457225">Call this number</a>
 
 ```
 
-<!-- WhatsApp Direct Message -->
+WhatsApp Direct Message
 ```
 
 <a href="whatsapp://send?phone=9809106239752&abid=9809106239752" target="_blank">Send a WhatsApp message</a>
 
 ```
   
-<!-- Twitter -->
+Twitter
 ```
 
 <a href="https://twitter.com/intent/tweet?text=Hello&url=https://adminvila.com/singlevila/60/k5dk4s95yms" target="_blank">Share on Twitter</a>
 
 ```
   
-<!-- Instagram -->
+Instagram
 ```
 
 <a href="https://instagram.com/yourusername" target="_blank">Visit our Instagram</a>
 
 ```
   
-<!-- Facebook -->  
+Facebook
 ```
   
 <a href="https://www.facebook.com/sharer/sharer.php?u=https://adminvila.com/singlevila/60/k5dk4s95yms" target="_blank">Share on Facebook</a>
 ```
 
-<!-- LinkedIn -->
+LinkedIn
 ```
   
 <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://adminvila.com/singlevila/60/k5dk4s95yms" target="_blank">Share on LinkedIn</a>
